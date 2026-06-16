@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RBMK-1000</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>LordX228.MetroCommunity</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9E31D977BA8B077B2DD20F77051AB6098A20C91D4279216C5DC6036B7CB396AD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>LordX228.MetroCommunity_1.0.0.0_neutral__j9cfez0a8f8hg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>LordX228.MetroCommunity_j9cfez0a8f8hg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>LordX228.MetroCommunity</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=LordX228</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T17:01:14.515</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\default.css">
+      <PackagePath>default.css</PackagePath>
+      <Modified>2026-06-15T10:32:15.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\downloads\downloads.css">
+      <PackagePath>downloads\downloads.css</PackagePath>
+      <Modified>2026-06-15T17:03:13.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2026-06-15T16:47:14.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\downloads\downloads.html">
+      <PackagePath>downloads\downloads.html</PackagePath>
+      <Modified>2026-06-15T17:18:28.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\default.js">
+      <PackagePath>default.js</PackagePath>
+      <Modified>2026-06-15T10:38:52.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\downloads\downloads.js">
+      <PackagePath>downloads\downloads.js</PackagePath>
+      <Modified>2026-06-15T17:53:12.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2026-06-14T09:54:57.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\BadgeLogo.scale-100.png">
+      <PackagePath>images\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2026-06-15T12:43:35.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Logo.scale-100.png">
+      <PackagePath>images\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-14T14:32:55.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Logo.scale-140.png">
+      <PackagePath>images\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-14T14:33:24.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Logo.scale-180.png">
+      <PackagePath>images\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-14T14:33:42.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\logo.scale-80.png">
+      <PackagePath>images\logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-14T14:29:33.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T12:43:14.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\smalllogo.scale-140.png">
+      <PackagePath>images\smalllogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T12:43:30.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\smalllogo.scale-180.png">
+      <PackagePath>images\smalllogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T12:43:42.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\smalllogo.scale-80.png">
+      <PackagePath>images\smalllogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T12:43:35.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\smalllogo.targetsize-16.png">
+      <PackagePath>images\smalllogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T12:47:14.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\smalllogo.targetsize-256.png">
+      <PackagePath>images\smalllogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T12:47:32.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\smalllogo.targetsize-32.png">
+      <PackagePath>images\smalllogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T12:47:20.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\smalllogo.targetsize-48.png">
+      <PackagePath>images\smalllogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T12:47:29.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\splashcreen.scale-100.png">
+      <PackagePath>images\splashcreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T16:27:35.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\splashcreen.scale-140.png">
+      <PackagePath>images\splashcreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T16:28:05.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\splashcreen.scale-180.png">
+      <PackagePath>images\splashcreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T16:26:55.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <Modified>2026-06-15T13:30:33.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T16:13:45.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Square310x310Logo.scale-140.png">
+      <PackagePath>images\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T16:13:37.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Square310x310Logo.scale-180.png">
+      <PackagePath>images\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T16:13:30.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Square310x310Logo.scale-80.png">
+      <PackagePath>images\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T16:13:52.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T07:33:46.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\storelogo.scale-140.png">
+      <PackagePath>images\storelogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T07:34:48.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\storelogo.scale-180.png">
+      <PackagePath>images\storelogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T07:34:53.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T04:27:18.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Wide310x150Logo.scale-140.png">
+      <PackagePath>images\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T07:24:45.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Wide310x150Logo.scale-180.png">
+      <PackagePath>images\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T07:25:20.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\images\Wide310x150Logo.scale-80.png">
+      <PackagePath>images\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-06-15T07:22:57.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\MetroCommunity_TemporaryKey.pfx">
+      <PackagePath>MetroCommunity_TemporaryKey.pfx</PackagePath>
+      <Modified>2026-06-14T09:55:00.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2026-06-15T17:01:14.423</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

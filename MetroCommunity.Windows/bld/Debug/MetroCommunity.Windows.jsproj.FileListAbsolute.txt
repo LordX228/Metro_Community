@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bin\Debug\ReverseMap\resources.pri
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bin\Debug\AppxManifest.xml
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bin\Debug\MetroCommunity.Windows.build.appxrecipe
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\priconfig.xml
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\priconfig.xml.intermediate
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\layout.resfiles
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\layout.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\resources.resfiles
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\resources.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\pri.resfiles
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\pri.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\qualifiers.txt
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\qualifiers.txt.intermediate
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\user\documents\visual studio 2013\Projects\MetroCommunity\MetroCommunity\MetroCommunity.Windows\bld\Debug\ProjectArchitectures.txt

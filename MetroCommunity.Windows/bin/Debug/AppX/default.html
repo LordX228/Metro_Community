@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Metro Community</title>
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+    <link href="default.css" rel="stylesheet" />
+    <script src="default.js"></script>
+</head>
+<body>
+    <div id="content">
+        <h1>Metro Community</h1>
+        <p>Ласкаво просимо до місця, де будуть цікавинки, контент і навіть поради.</p>
+        <a href="/downloads/downloads.html">Завантаження</a>
+    </div>
+
+    <div id="appBar" data-win-control="WinJS.UI.AppBar">
+        <button data-win-control="WinJS.UI.AppBarCommand"
+                data-win-options="{id:'aboutBtn', label:'Про сайт', icon:'info', section:'global'}"></button>
+    </div>
+
+    <button id="chatButton" onclick="openDiscord()">
+        <img src="/images/chat-icon.png" alt="Чат" />
+        <span>Приєднатися до чату</span>
+    </button>
+
+    <style>
+        #chatButton {
+            background-color: #006DAA;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-family: "Segoe UI", sans-serif;
+            cursor: pointer;
+            /* Робимо кнопку як блок, що веде себе як текст */
+            display: inline-block;
+            vertical-align: middle;
+            height: 40px; /* Задай фіксовану висоту для точності */
+        }
+
+            #chatButton img {
+                /* Центруємо іконку по вертикалі відносно тексту */
+                vertical-align: middle;
+                margin-right: 10px;
+            }
+
+            #chatButton span {
+                /* Центруємо текст по вертикалі */
+                vertical-align: middle;
+            }
+    </style>
+
+    <script>
+        function openDiscord() {
+            // Відкриваємо посилання на твій Discord-сервер
+            window.location.href = "https://discord.gg/FkEJAWda";
+        }
+    </script>
+</body>
+</html>
