@@ -1,0 +1,10 @@
+(EN)
+1. First, mount ISO
+2. Next, run setup.exe
+3. Select Sony Vegas
+4. Install
+(UA)
+1. Спочатку вмонтуйте ISO
+2. Потім запустіть setup.exe
+3. Оберіть Sony Vegas
+4. Встановлюйте
