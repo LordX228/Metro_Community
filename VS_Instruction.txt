@@ -1,0 +1,10 @@
+(UA)
+1. Спочатку, вставте ISO
+2. Потім, запустіть setup.exe
+3. Під час встановлення ТІЛЬКИ ці додайте компоненти: Blend with Visual Studio, Windows Web Develop Tools, Tools for Maintaining Store for Windows 8
+4. Коли закінчиться встановлення, сміло можете натискати кнопку Launch
+(EN)
+1. First, mount ISO
+2. Next, run setup.exe
+3. In setup, ONLY add components: Blend with Visual Studio, Windows Web Develop Tools, Tools for Maintaining Store for Windows 8
+4. When setup complete, you can tap button Launch
